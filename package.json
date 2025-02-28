@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Eduardoleor/rn-voice-recognition-simple-words.git"
+    "url": "git@github.com:Eduardoleor/rn-voice-recognition-simple-words.git"
   },
   "files": [
     "src",
